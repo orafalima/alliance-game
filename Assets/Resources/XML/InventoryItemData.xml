@@ -1,0 +1,26 @@
+<xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<InventoryItems>
+    <InventoryItem ID="amethyst" Type="gemstone">
+        <ItemTitle>Amethyst</ItemTitle>
+        <ItemDescription>The amethyst is used to fortify equipments.</ItemDescription>
+        <Image>amethyst_img</Image>
+    </InventoryItem>
+
+    <InventoryItem ID="crystal" Type="gemstone">
+        <ItemTitle>Crystal</ItemTitle>
+        <ItemDescription>The crystal is used to fortify equipments.</ItemDescription>
+        <Image>crystal_img</Image>
+    </InventoryItem>
+
+    <InventoryItem ID="ruby" Type="gemstone">
+        <ItemTitle>Ruby</ItemTitle>
+        <ItemDescription>The ruby is used to fortify equipments.</ItemDescription>
+        <Image>ruby_img</Image>
+    </InventoryItem>
+
+    <InventoryItem ID="health_potion" Type="potion">
+        <ItemTitle>Health Potion</ItemTitle>
+        <ItemDescription>Restores 50 health.</ItemDescription>
+        <Image>health_potion_img</Image>
+    </InventoryItem>
+</InventoryItems>
